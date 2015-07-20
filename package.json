@@ -1,6 +1,6 @@
 {
   "name": "racer-schema",
-  "version": "0.1.1",
+  "version": "0.1.1a",
   "description": "Schema plugin for Racer",
   "main": "lib",
   "scripts": {
